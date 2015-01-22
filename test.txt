@@ -1,0 +1,19 @@
+C*  	 	This is a comment
+C*C*
+" C*   something " "  eorinwoer " " erwew ""supertest""
+C*\ rtower
+     something C* something
+\n
+c* this isn't
+
+** this really isn't
+
+C* " e	 	lele 	lelelelelel" " eroerklelrkelk"" " tlksldk " sdkflasd "
+					JUST A SIM	PLE 	TE		  ST.
+						
+	
+	
+	
+
+;'/..   !@			#	$%^&*()_+\	~/.,
+	
